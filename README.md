@@ -7,4 +7,3 @@ An image meant for meteor deployments to galaxy on CI servers, specifically crea
 - latest meteor
 - [json](https://github.com/trentm/json) for editing galaxy ROOT_URL in settings file dynamically
 - [yarn](https://yarnpkg.com/en/)
-- Cypress dependencies from [docker-image](https://hub.docker.com/r/cypress/base/~/dockerfile/)
